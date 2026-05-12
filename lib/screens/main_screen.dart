@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../providers/prompt_provider.dart';
 import '../utils/theme.dart';
-import '../widgets/responsive_layout.dart';
 import 'home_screen.dart';
 import 'categories_screen.dart';
 import 'favorites_screen.dart';

@@ -4,7 +4,6 @@ import 'package:provider/provider.dart';
 import '../providers/prompt_provider.dart';
 import '../utils/theme.dart';
 import '../widgets/platform_badge.dart';
-import '../widgets/responsive_layout.dart';
 
 class PromptDetailsScreen extends StatelessWidget {
   final String promptId;

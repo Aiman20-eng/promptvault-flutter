@@ -1,17 +1,42 @@
-# prompt_vault
+# PromptVault
 
-A new Flutter project.
+تطبيق لإدارة وحفظ البرومبتات الخاصة بالذكاء الاصطناعي تم تطويره باستخدام Flutter و Provider.
 
-## Getting Started
+## المميزات
 
-This project is a starting point for a Flutter application.
+* عرض البرومبتات حسب التصنيفات
+* البحث والفلاتر
+* إضافة للمفضلة
+* حفظ البرومبتات في مجموعات
+* نسخ البرومبتات بسرعة
+* واجهة عربية متجاوبة
+* دعم الوضع الداكن
+* إدارة حالة باستخدام Provider
 
-A few resources to get you started if this is your first Flutter project:
+## التقنيات المستخدمة
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* Flutter
+* Dart
+* Provider
+* ChangeNotifier
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## تشغيل المشروع
+
+```bash id="1o6tfq"
+flutter pub get
+flutter run
+```
+
+## بناء نسخة الويب
+
+```bash id="m4s6xt"
+flutter build web --release
+```
+
+## رابط الموقع
+
+ضع رابط Netlify هنا
+
+## رابط GitHub
+
+ضع رابط المستودع هنا
